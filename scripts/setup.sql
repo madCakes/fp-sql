@@ -5,3 +5,4 @@ CREATE TABLE cats (
 	name VARCHAR ( 20 ),
 	age INT NOT NULL
 );
+-- VARCHAR = ASCII character
